@@ -1,0 +1,585 @@
+@-moz-document domain("ucl.ac.uk") {
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;400&display=swap');
+
+body {
+    font-family: 'Fira Sans', sans-serif;
+
+    background-color: #FFFFFF;
+}
+
+
+/* header */
+.brand__heading {
+    font-size: 30px;
+    text-transform: none
+}
+
+.global-search {
+    position: relative;
+    margin-top: 1rem;
+}
+
+.masthead {
+    background-color: #000;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+
+@media only screen and (max-width: 767px) {
+    .brand {
+        border-bottom: .5em solid #020100;
+    }
+}
+
+
+
+.masthead__search .search-form {
+    border-radius: 0;
+    opacity: 95%;
+}
+
+.masthead__search .search-form__input--submit {
+    border-radius: 0;
+    opacity: 95%;
+}
+
+.search-form__input--submit {
+    background-color: #020100;
+    border-color: #FFFFFF;
+    border-width: 1px;
+    opacity: 95%
+}
+
+.masthead .give-link {
+    background-color: #000;
+    padding: 1.7em 1em;
+    color: white
+}
+
+.menu .active {
+    background-color: #004796;
+    color: white
+}
+
+#study-ucl > header > div.wrapper {
+    width: 96%
+}
+
+.nav--top {
+    background-color: #e0e0e029;
+    border-bottom: solid 5px #012776;
+    width: 98%;
+    margin-left: 1rem;
+    border-radius: 1.25rem;
+    border-width: 0px;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+.nav--top > ul > li {
+    font-family: 'Fira Sans', sans-serif;
+    text-decoration: overline 1px;
+    margin-bottom: 20px;
+}
+
+
+
+
+/* main body */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.photograph {
+    background-color: #FFFFFF;
+}
+
+.photograph:before {
+    background-color: #FFFFFF;
+}
+
+.photograph:after {
+    background-color: #FFFFFF;
+}
+
+.course__finder__title {
+    background-color: #004796;
+}
+
+.course__finder:before {
+    background-color: #004796;
+}
+
+.announcement {
+    flex: 1 1 11.3%;
+}
+
+.hero__title h1 {
+    padding-top: 5rem;
+}
+
+#course__finder {
+    margin-top: -3rem
+}
+
+.course__finder__form {
+    background-color: #fcfcfc
+}
+
+.course__finder:after {
+    background-color: #fcfcfc
+}
+
+.easy-autocomplete input {
+    border-radius: 0px;
+}
+
+.course__finder__form .form__group .button-next,
+.course__finder__form .form__group input[type=submit] {
+    background-color: #004796
+}
+
+.statistics .stat {
+    background-color: #004796;
+    opacity: 80%;
+}
+
+.statistics {
+    padding-bottom: 4rem
+}
+
+.row--grey {
+    background-color: rgba(128, 127, 126, .04)
+}
+
+.study__background {
+    background-color: #012776 !important;
+    opacity: 70% !important
+}
+
+.footer,
+.footer__inner {
+    background-color: #020100
+}
+
+
+/*sub pages*/
+.box.box--bar-thick .box--title-wrapper {
+    background-color: #146ebd;
+    color: #fff;
+}
+
+.site-content__main .box.box--bar-thick h2:first-of-type,
+.site-content__sidebar .box.box--bar-thick h2:first-of-type {
+    color: #fff;
+    background-color: #146ebd;
+    margin: 0 -6.25% 20px;
+    padding: 0.45em 6.25%;
+}
+.box {
+    border-color: #146ebd;
+}
+
+.box,
+ol.code li {
+    background-color: #d2e8e840;
+}
+.box i.fa {
+    background-color: #146ebd
+}
+
+section > section > div > ul > li {
+    margin-top: 0;
+    margin-left: -3em;
+    list-style-type: none
+}
+
+.site-prospective-students-graduate .header,
+.site-prospective-students-undergraduate .header,
+.site-prospective-students-undergraduate-redesign .header {
+    border-bottom: #fff 1em solid;
+}
+
+.site-prospective-students-graduate .header #logo,
+.site-prospective-students-undergraduate .header #logo,
+.site-prospective-students-undergraduate-redesign .header #logo {
+    background: #fff;
+}
+
+site-prospective-students-graduate .hero-content.text-only,
+.site-prospective-students-undergraduate .hero-content.text-only,
+.site-prospective-students-undergraduate-redesign .hero-content.text-only {
+    background-color: #0064a2;
+    color: #fff;
+}
+
+#ucl-funnelback-search > article:nth-child(n) > div.feed__text-content > h3 > a {
+    text-decoration: underline white
+}
+
+th {
+    background-color: #fcfcfc;
+    border-bottom: solid 0px #cccccc
+}
+
+.teaser h1.teaser__title-coloured a {
+    background-color: #0c2776;
+    color: #FFFFFF;
+}
+
+.nav--left,
+.nav--mobile {
+    border-bottom: solid 5px #4365c7;
+}
+
+/* portal */
+div.sv-navbar-collapse.sv-collapse.sv-navbar-responsive-collapse {
+    width: 98%;
+    margin-left: 1rem;
+    border-radius: 1.25rem;
+    border-width: 0px;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+.sv-navbar-default .sv-navbar-nav > li > a {
+    text-decoration: underline;
+    text-decoration-color: #AAAAAA;
+}
+
+.sv-panel.sv-panel-primary {
+    border-color: white;
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+}
+
+
+.sv-panel-heading,
+.sv-panel-primary > .sv-panel-heading {
+    background-color: #004796;
+    border-color: white;
+}
+
+.sv-panel-default {
+    border-color: white
+}
+
+.sv-btn-primary {
+    background-color: #004796;
+    border-color: #004796
+}
+
+.sv-container-fluid {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    max-width: 900px;
+}
+
+
+.accordion__title {
+    background-color: #004796
+}
+}
+
+@-moz-document url("https://www.ucl.ac.uk/") {
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400&display=swap');
+
+body {
+    font-family: 'Fira Sans', sans-serif;
+    background-color: #FFFFFF
+}
+
+
+/* header */
+.masthead {
+    background-color: #020100
+}
+
+.announcement {
+    background-color: #004796;
+}
+
+@media only screen and (max-width: 767px) {
+    .brand {
+        border-bottom: .5em solid #020100;
+    }
+}
+
+.masthead__search .search-form {
+    border-radius: 0;
+    opacity: 95%;
+}
+
+.masthead__search .search-form__input--submit {
+    border-radius: 0;
+    opacity: 95%;
+}
+
+.search-form__input--submit {
+    background-color: #020100;
+    border-color: #FFFFFF;
+    border-width: 1px;
+    opacity: 95%
+}
+
+.masthead .give-link {
+    background-color: #000;
+    padding: 1.7em 1em;
+}
+
+
+
+/* main body */
+.hero {
+    background-color: #020100
+}
+
+.hero img {
+    display: flex;
+    max-width: 200%;
+    max-height: 200%;
+    object-fit: contain
+}
+
+
+
+.row {
+    padding-bottom: 2rem;
+}
+
+#course__finder {
+    margin-top: -3rem
+}
+
+.course__finder__form {
+    background-color: #fcfcfc
+}
+
+.course__finder:after {
+    background-color: #fcfcfc
+}
+
+.easy-autocomplete input {
+    border-radius: 0px;
+}
+
+.course__finder__form .form__group .button-next,
+.course__finder__form .form__group input[type=submit] {
+    background-color: #004796
+}
+
+.statistics .stat {
+    background-color: #004796;
+    opacity: 80%;
+}
+
+.statistics {
+    padding-bottom: 4rem
+}
+
+.row--grey {
+    background-color: rgba(128, 127, 126, .04)
+}
+
+.study__background {
+    background-color: #012776 !important;
+    opacity: 70% !important
+}
+
+
+.footer,
+.footer__inner {
+    background-color: #020100
+}
+}
+
+@-moz-document regexp("https://evision.ucl.ac.uk/urd/sits.urd/run/siw_lgn") {
+body > div > form > div:nth-child(2) {
+    font-size: 9px
+}
+}
+
+@-moz-document url-prefix("https://evision.ucl.ac.uk/urd/sits.urd/run/") {
+/* Nav bar main*/
+div.sv-navbar-collapse.sv-collapse.sv-navbar-responsive-collapse {
+    width: 98%;
+    margin-left: 1rem;
+    border-radius: 1.25rem;
+    border-width: 0px;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+/* hovered nav bar item*/
+body > header.sv-header-main.sv-hidden-print > nav > div.sv-navbar-collapse.sv-collapse.sv-navbar-responsive-collapse > ul > li :hover {
+    background-color: #E5E7EB;
+}
+
+/* selected nav bar item*/
+body > header.sv-header-main.sv-hidden-print > nav > div.sv-navbar-collapse.sv-collapse.sv-navbar-responsive-collapse > ul > li.sv-active {
+    font-weight: 1000;
+}
+
+/* Nav bar bottom*/
+body > header.sv-header-main.sv-hidden-print > nav > div.sv-navbar-collapse.sv-collapse.sv-navbar-responsive-collapse > div {
+    border-bottom: none;
+}
+
+
+/* Logged In: NAME */
+body > header.sv-header-main.sv-hidden-print > div {
+    margin-top: 1.5rem
+}
+
+/* panel */
+.sv-panel.sv-panel-primary {
+    border-color: white;
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+}
+
+
+body > div > div.sv-row > div:nth-child(1) > div > div > div:nth-child(2) > div.sv-panel-heading > div > div.sv-col-xs-12.sv-col-sm-1.sv-col-md-3.sv-col-lg-3 {
+    margin-left: 2.5rem
+}
+
+body > div > div.sv-row > div:nth-child(1) > div > div > div:nth-child(2) > div.sv-panel-body.sv-text-info {
+    display: none
+}
+
+
+/* buttons */
+.sv-btn,
+.sv-btn-default {
+    margin: 1px;
+    padding: 5px;
+    border-radius: 0.375rem;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+}
+.sv-btn,
+.sv-btn-default:hover {
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+}
+
+@-moz-document url-prefix("https://student.engage.ucl.ac.uk/") {
+/* Ask UCL*/
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;400&display=swap');
+body {
+    font-family: 'Fira Sans', sans-serif !important;
+}
+
+.brand__heading {
+    display: none;
+}
+
+#esdOuterWrapper > div.top-bar.row.clearfix {
+    display: none;
+}
+
+#esdOuterWrapper > div.row.ess-navbar-and-main-page-content-wrapper {
+    background: white !important;
+    margin-left: 20px;
+    margin-right: 20px;
+    display: flex;
+}
+
+#esdMenuBar_Container {
+    z-index: 10;
+    border-radius: 15px;
+    height: min-content;
+    margin-top: 15rem;
+    margin-bottom: 10rem;
+    border-width: 2px;
+    border-color: #E5E7EB;
+    box-shadow: 0 0px 15px 6px rgba(9, 0, 134, .25);
+    margin-right: 2rem;
+    position: fixed
+}
+
+@media (min-width: 992px) {
+    .col-md-10 {
+        width: 100%;
+    }
+}
+
+
+/*
+#MainMenuBar > ul{
+    background-color: transparent;
+}
+.sid-edge-suite-homepage mat-icon{
+    color: black
+}
+ul.main-menu > li a{
+    color: black;
+}
+.sid-edge-suite-homepage a, .sid-edge-suite-homepage a:hover, .sid-edge-suite-homepage a:active, .sid-edge-suite-homepage a:visited{
+    color: black;
+}
+ul.main-menu > li.active > a{
+    background-color:rgb(25 49 71 / 35%)
+}
+*/
+#MainMenuBar > ul.ed-navigation__list.sid-edge-suite-homepage {
+    border-radius: 15px
+}
+
+/* right side*/
+#esdPageContentBar_Container {
+    margin-left: 20%;
+    min-height: 800px;
+}
+
+.sid-page-title-bar-bg-col {
+    border-radius: 14px
+}
+
+.quick-access-item.bg-color-green {
+    background-color: #418941 !important;
+}
+
+.quick-access-item.bg-color-blue {
+    background-color: #36367e !important;
+}
+
+.quick-access-item.bg-color-orange {
+    background-color: rgb(158, 116, 54) !important;
+}
+
+.LandingPage .SearchFAQs {
+    background-color: #418941;
+    border-radius: 20px
+}
+
+.LandingPage .CheckAppointments {
+    background-color: rgb(158, 116, 54);
+    border-radius: 20px
+}
+
+#dash-pageTemplatePlaceholder > div > div > div:nth-child(2) > div > div:nth-child(2) {
+    margin-top: 20px
+}
+
+.LandingPage .CheckEnquiries {
+    background-color: #36367e;
+    border-radius: 20px;
+}
+
+.LandingPage .BookTutorAppointment {
+    padding-top: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+}
+
+a#btnBookAppointmentWithTutor {
+    padding-top: 25px
+}
+
+.LandingPage .ViewProfile {
+    border-radius: 10px
+}
+}
