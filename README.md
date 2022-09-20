@@ -21,9 +21,6 @@ I hate the current front-end UI design of [UCL website](https://www.ucl.ac.uk/).
 |<img width="1191" alt="image" src="https://user-images.githubusercontent.com/85795754/187772406-2b64be58-59c2-4ca2-91b5-f472c7d02144.png">| <img width="1191" alt="image" src="https://user-images.githubusercontent.com/85795754/187772453-82674770-e71b-48a1-a867-e6a3c92be7d2.png"> |
 
 ## How do I use them?
-### UCL officials
-1. Take them away, make it responsive, apply them, don't need my consent.
-2. Use a modern JavaScript framework to refactor the website (no jQuery pls)
 
 ### Chrome
 1. Install [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) from Chrome web store
