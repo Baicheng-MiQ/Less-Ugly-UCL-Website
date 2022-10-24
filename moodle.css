@@ -1,0 +1,122 @@
+@-moz-document domain("moodle.ucl.ac.uk") {
+#header1{
+    background-color: #003e74
+}
+
+#page-header{
+    background-color: #003e74
+}
+
+#adaptable-page-header-wrapper{
+    background-color: #003e74
+}
+
+#page-header > div.row.d-flex.justify-content-start.align-items-center.h-100 > div.col-lg-4.p-0{
+    display: none
+}
+
+#adaptable-page-header-wrapper #main-navbar{
+    background-color: #003e74
+}
+
+#yui_3_17_2_1_1665016368996_47{
+    display: none !important;
+}
+
+#yui_3_17_2_1_1665016368996_48 > nav > ul > li:nth-child(4){
+    display: none
+}
+
+.btn-outline-secondary{
+    background-color: #003e74
+
+}
+
+#page-footer{
+    display: none! important
+}
+
+.footer{
+    background-color: inherit;
+}
+}
+
+@-moz-document url-prefix("https://moodle.ucl.ac.uk/my/") {
+#inst185463{
+    display: none;
+}
+
+#page-header{
+    display: none !important;
+}
+
+#ticker-wrap{
+    display: none !important;
+}
+
+#block-region-side-post{
+    display: none;
+}
+
+#inst17{
+    display:none;
+}
+
+#inst4{
+    display:none;
+}
+
+#page > div.container.outercont{
+    display: flex;
+    position: relative;
+}
+
+.container, .container-fluid, .container-sm, .container-md, .container-lg, .container-xl{
+    margin-left: 0;
+    margin-right: 0;
+}
+
+#page-wrapper #page #page-content{
+    margin-left: 10px;
+    display: flex;
+    width: 80%;   
+}
+
+#inst6{
+    min-width: 30%;
+    padding: 30px;
+    margin-left: -10rem
+}
+}
+
+@-moz-document url-prefix("https://moodle.ucl.ac.uk/course/view.php") {
+#page-navbar > nav > ol{
+    background-color: white !important;
+}
+
+#sitetitle{
+    font-weight: 1000; 
+    padding: 20px
+}
+
+.icon.column.c0{
+    display: none;
+}
+
+div.mod-indent-1{
+    border-right: 2px solid #003e74;
+}
+s
+div.mod-indent.mod-indent-1{
+    margin-right: 10px
+}
+
+.ad-activity-wrapper{
+    margin-left: 10px
+}
+
+button{
+    margin: 5px
+}
+
+}
