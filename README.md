@@ -1,5 +1,6 @@
 # Less-Ugly-UCL-Website
-I hate the current front-end UI design of [UCL website](https://www.ucl.ac.uk/). This UI can't reflect how awesome UCL is, so I've decided to make a better one with only CSS.
+I hate the current front-end UI design of [UCL website](https://www.ucl.ac.uk/). 
+This design can't reflect how awesome UCL is, so I've decided to make a better one with only CSS.
 
 ## What I have changed
 - Ugly colors 🤮
@@ -11,6 +12,8 @@ I hate the current front-end UI design of [UCL website](https://www.ucl.ac.uk/).
 | before | after |
 |--------|-------|
 |<img width="833" alt="image" src="https://user-images.githubusercontent.com/85795754/187768266-9cc265a7-c9a7-48e0-970f-dbaf6fc5e15c.png"> | <img width="839" alt="image" src="https://user-images.githubusercontent.com/85795754/187767835-e2606705-e313-4209-9c91-a217dec4ee40.png">|
+|<img width="1227" alt="image" src="https://user-images.githubusercontent.com/85795754/197622241-0c916ece-ad5a-4de6-8098-246ccd636ae4.png"> | <img width="1225" alt="image" src="https://user-images.githubusercontent.com/85795754/197622356-66368bfb-8731-4705-99eb-4a2352fb1c19.png"> |
+|<img width="897" alt="image" src="https://user-images.githubusercontent.com/85795754/197622497-7ef8a88b-8353-40ad-ac4e-1a01726eec4a.png"> | <img width="897" alt="image" src="https://user-images.githubusercontent.com/85795754/197622564-8e9071ee-1356-4523-8fe9-3f01fd3e4243.png"> |
 |<img width="1005" alt="image" src="https://user-images.githubusercontent.com/85795754/187769289-35841b24-2557-453c-87c4-a83d633c5956.png">|<img width="1010" alt="image" src="https://user-images.githubusercontent.com/85795754/187769331-5791faf4-757c-46ef-92a3-a3dff11f379e.png">|
 |<img width="970" alt="image" src="https://user-images.githubusercontent.com/85795754/187769637-914a4e96-8b05-448c-bf19-8c1cbd3b5b8b.png">| <img width="1007" alt="image" src="https://user-images.githubusercontent.com/85795754/187769769-cd5bf97b-7175-4a2a-ac45-e5a4da6e3831.png">|
 |<img width="980" alt="image" src="https://user-images.githubusercontent.com/85795754/187769949-13aec795-1210-4abd-96da-12f7a0066a65.png">|<img width="1002" alt="image" src="https://user-images.githubusercontent.com/85795754/187770016-ac3b2c59-b44b-4fe7-844d-1e70f60453ee.png">|
@@ -19,6 +22,7 @@ I hate the current front-end UI design of [UCL website](https://www.ucl.ac.uk/).
 |<img width="1083" alt="image" src="https://user-images.githubusercontent.com/85795754/187771423-72e5c2a8-7912-480c-a62b-8bb0a4560dd6.png">| <img width="1073" alt="image" src="https://user-images.githubusercontent.com/85795754/187771710-4ec3f42f-16f3-42c8-a6bc-0dd5c6a5437c.png"> |
 |<img width="1192" alt="image" src="https://user-images.githubusercontent.com/85795754/187772259-2fdee6b3-f7e6-4c18-92e0-4c03831705ac.png"> | <img width="1185" alt="image" src="https://user-images.githubusercontent.com/85795754/187772316-712554be-4b17-47ae-af39-3d41ce09aaf0.png"> |
 |<img width="1191" alt="image" src="https://user-images.githubusercontent.com/85795754/187772406-2b64be58-59c2-4ca2-91b5-f472c7d02144.png">| <img width="1191" alt="image" src="https://user-images.githubusercontent.com/85795754/187772453-82674770-e71b-48a1-a867-e6a3c92be7d2.png"> |
+
 
 ## How do I use them?
 
